@@ -103,16 +103,19 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## Output
 
 1. CAPTURED FRAME
-<img width="661" height="368" alt="image" src="https://github.com/user-attachments/assets/da99ac62-4cc0-4bcb-a60e-76c818272a43" />
+<img width="661" height="486" alt="image" src="https://github.com/user-attachments/assets/08f781d6-41c0-4ce8-b82d-1250aaa0a2ea" />
+
 
 2. DISPLAYING THE VIDEO
-<img width="669" height="370" alt="image" src="https://github.com/user-attachments/assets/0a1db2c1-9c71-4752-8577-ded913a51fc0" />
+<img width="663" height="489" alt="image" src="https://github.com/user-attachments/assets/d87bca61-0770-4474-887f-56e855f5be43" />
+
 
 3. DISPLAYING THE VIDEO BY RESIZING THE WINDOW
-<img width="329" height="496" alt="image" src="https://github.com/user-attachments/assets/0b4576d4-6310-467a-9dbf-553f2c4bb4a6" />
+<img width="325" height="484" alt="image" src="https://github.com/user-attachments/assets/09330035-dfb7-4ecf-b7bb-31b2b51ae9b9" />
 
 4. ROTATE AND DISPLAY THE VIDEO
-<img width="276" height="496" alt="image" src="https://github.com/user-attachments/assets/ce19593b-9f9f-441c-892d-9365b52bdb5e" />
+<img width="382" height="492" alt="image" src="https://github.com/user-attachments/assets/410959a9-8ced-4307-9b93-e883e1c9a027" />
+
 
 ## Result
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
